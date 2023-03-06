@@ -1,2 +1,2 @@
 # test
-first example for using giuhub
+first example for using github
